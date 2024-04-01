@@ -1,0 +1,8 @@
+﻿@font-face {
+	font-family: 'OpenSans-Light';
+	src:url('OpenSans-Lighta952.eot?tiwypa');
+	src:url('OpenSans-Lightd41d.eot?#iefixtiwypa') format('embedded-opentype'),
+		url('OpenSans-Lighta952.woff?tiwypa') format('woff'),
+		url('OpenSans-Lighta952.ttf?tiwypa') format('truetype'),
+		url('OpenSans-Lighta952.svg?tiwypa#OpenSans-Light') format('svg');
+}
